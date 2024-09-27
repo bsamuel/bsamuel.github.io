@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sd_rainbowShader",
+  "name":"sd_rainbowShader",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

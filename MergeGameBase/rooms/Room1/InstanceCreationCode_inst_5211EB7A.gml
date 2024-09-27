@@ -1,0 +1,1 @@
+sprite_index = spr_book_generators;
